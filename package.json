@@ -1,0 +1,24 @@
+{
+  "name": "quaeratnobis",
+  "version": "1.0.0",
+  "description": "Automatic page load progress bar",
+  "authors": [
+    "Zack Bloom <zbloom@hubspot.com>",
+    "Adam Schwartz <aschwartz@hubspot.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "coffee-script": "~1.6.3",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "color": "~0.4.4"
+  },
+  "author": "ZaneDeckow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeldaNikolaus/quaeratnobis.git"
+  }
+}
